@@ -20,5 +20,4 @@ The dashboard answers key business questions:
 - **Microsoft Excel / CSV Data**
 - **DAX (for measures and KPIs)**
 - **Data Cleaning in Power Query**
-
-- 
+- **Jupyter Notebook**
